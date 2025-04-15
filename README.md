@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi there! I'm a Software Engineering student passionate about building efficient, user-friendly applications.<br>I'm currently learning Data Structure & Algorithms(java) , Fast API , React.js.<br>I enjoy solving problems, learning new technologies, and turning ideas into code.
+# 💫 Hi 👋, I'm Naman Sharma
+**AI Enthusiast | Problem Solver | Web Developer**
+
+- 🌱 **I’m currently learning:** Data Structure and Algorithm(Java), FastAPI, React.js
+- 📫 **How to reach me:** naman.sh.fzd@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
@@ -23,6 +27,11 @@ Hi there! I'm a Software Engineering student passionate about building efficient
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naman-Sharma123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naman-Sharma123&icon=0&color=0)](https://visitcount.itsvg.in)
