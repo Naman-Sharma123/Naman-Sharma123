@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-09a32924b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naman.sh.fzd@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namansh7022@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman-Sharma123)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Naman-Sharma123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
