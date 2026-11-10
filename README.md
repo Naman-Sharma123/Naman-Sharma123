@@ -144,7 +144,7 @@ naman@dev:~$ _
 
 I'm currently **open to Software Developer opportunities** (Full Stack / React): remote, or on-site in **Delhi NCR**. If you're hiring or want to collaborate, reach out!
 
-📫 **Email:** [naman.sh.fzd@gmail.com](mailto:namansh7022@gmail.com)
+📫 **Email:** [namansh7022@gmail.com](mailto:namansh7022@gmail.com)
 💼 **LinkedIn:** [naman-sharma](https://www.linkedin.com/in/naman-sharma-09a32924b/)
 
 <div align="center">
