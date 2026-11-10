@@ -25,24 +25,32 @@ I'm a **Full Stack Developer** with hands-on experience building responsive, pro
 ```js
 const naman = {
   role: "Full Stack Developer",
-  focus: ["React", "Next.js", "Node.js", "FastAPI"],
-  data: ["PostgreSQL", "MySQL", "Redis"],
-  practicing: "Data Structures & Algorithms in Java",
-  exploring: ["Generative AI", "AI-powered apps"],
-  location: "Delhi NCR, India",
-  lookingFor: "Software Developer roles — Remote / Delhi NCR",
+  stack: ["React", "Next.js", "Node.js", "FastAPI"],
+  databases: ["PostgreSQL", "MySQL", "Redis"],
+  based: "Delhi NCR, India 🇮🇳",
   funFact: "I design in Figma before I code in React 🎨",
 };
 ```
 
 ### 🎯 What I'm up to
-- 💻 Building scalable full stack applications
-- ⚡ Strong in frontend, leveling up on backend, databases and caching
-- 🧠 Practicing DSA in Java to sharpen problem solving
-- 🤖 Exploring AI & Generative AI through real-world projects
-- 🚀 Actively looking for a full stack / React developer role
 
----
+<div align="center">
+
+![Building](https://img.shields.io/badge/🔨_BUILDING-Scalable_full_stack_apps-61DAFB?style=for-the-badge&labelColor=0f2027)
+![Learning](https://img.shields.io/badge/🌱_LEARNING-System_design_%26_caching-4169E1?style=for-the-badge&labelColor=0f2027)
+![Practicing](https://img.shields.io/badge/🧠_PRACTICING-DSA_in_Java-ED8B00?style=for-the-badge&labelColor=0f2027)
+![Exploring](https://img.shields.io/badge/🤖_EXPLORING-Generative_AI-8A2BE2?style=for-the-badge&labelColor=0f2027)
+
+</div>
+
+```bash
+naman@dev:~$ cat goals.md
+
+  looking for   →  Full Stack / React Developer role (remote or Delhi NCR) 🟢
+  ask me about  →  React, Figma-to-code, REST APIs, getting started with full stack
+
+naman@dev:~$ _
+```
 
 ## 🛠️ Tech Stack
 
@@ -136,7 +144,7 @@ const naman = {
 
 I'm currently **open to Software Developer opportunities** (Full Stack / React): remote, or on-site in **Delhi NCR**. If you're hiring or want to collaborate, reach out!
 
-📫 **Email:** [naman.sh.fzd@gmail.com](mailto:naman.sh.fzd@gmail.com)
+📫 **Email:** [naman.sh.fzd@gmail.com](mailto:namansh7022@gmail.com)
 💼 **LinkedIn:** [naman-sharma](https://www.linkedin.com/in/naman-sharma-09a32924b/)
 
 <div align="center">
